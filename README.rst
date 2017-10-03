@@ -1,6 +1,6 @@
-#####
+##################
 Nickname generator
-#####
+##################
 (supports cyrillic and latin)
 
 Installation and usage
@@ -36,7 +36,7 @@ Console usage:
     Nickname
 
 Options
-----------------------
+-------
 
 You can specify locale (available 'en' and 'ru' values).
 
