@@ -8,6 +8,7 @@ setup(
     python_requires='>=3',
     version=nickname_generator.__version__,
     description='Nickname generator',
+    long_description_content_type='text/x-rst',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst'), encoding='utf-8').read(),
     author='Eugene Danini',
     author_email='e.danini@gmail.com',
